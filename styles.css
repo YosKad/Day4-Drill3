@@ -95,6 +95,11 @@
     width: 25%;
     float: left;
 }
+.left-artical h2 p {
+    width: 430px;
+}
+
+
 .left-artical img {
     width: 430px;
     height: 546px;
